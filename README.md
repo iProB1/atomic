@@ -1,2 +1,2 @@
 # atomic
-secret sex
+its for atomic things
