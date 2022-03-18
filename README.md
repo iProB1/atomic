@@ -1,3 +1,4 @@
 # atomic
 its for atomic things
-growtopia a botting software
+
+a botting software for growtopia
